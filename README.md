@@ -1,5 +1,5 @@
 # Histogram-Generator-from-raw-image-file
-The program will generate histogram from a Raw12 image file.
+The program will memory map a Raw12 file and will generate histogram from a Raw12 image file.
 
 ## Usage and Description of files
 The histogram.c is the main C file, which will take a Raw12 image as argument and would print color histogram from it.
