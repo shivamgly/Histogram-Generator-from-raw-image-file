@@ -1,0 +1,9 @@
+The total time taken by the program WITHOUT arguments = 0.000289 secs
+The total time taken by the program WITH "portrait-gainx2-offset2047-20ms-02.raw12" as the argument = 0.163435 secs
+
+
+------------------------------------------------------------------
+time                    %time                    function 
+------------------------------------------------------------------
+0.150366 secs             94.8%			calculate_histogram + find_bucket
+0.008161 secs             5.2%                     print_histogram
